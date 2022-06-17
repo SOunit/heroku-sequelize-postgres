@@ -1,0 +1,6 @@
+UPDATE
+    COMPANY
+SET
+    SALARY = 15000
+WHERE
+    ID = 3;
